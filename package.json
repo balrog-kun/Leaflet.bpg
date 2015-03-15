@@ -1,0 +1,11 @@
+{
+  "name": "leaflet.bpg",
+  "version": "1.0.0",
+  "description": "Leaflet TileLayer variant for the .bpg tile format.",
+  "main": "TileLayer.BPG.js",
+  "author": "Andrzej Zaborowski",
+  "license": "BSD",
+  "dependencies": {
+    "leaflet": "^1.0.0"
+  }
+}
